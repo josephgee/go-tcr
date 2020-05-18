@@ -1,4 +1,4 @@
-module github.com/joeandjake
+module github.com/josephgee/go-tcr
 
 go 1.14
 
